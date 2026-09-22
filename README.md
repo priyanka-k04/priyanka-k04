@@ -1,27 +1,123 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>AI/ML projects focused on RAG, Generative AI, and Explainable AI.<br><br>👯 I’m looking to collaborate on<br>AI/ML, Generative AI, RAG, and open-source projects.<br><br>🤝 I’m looking for help with<br>Building and deploying scalable, real-world AI applications.<br><br>🌱 I’m currently learning<br>Generative AI, Agentic AI, cloud technologies, and advanced AI/ML concepts.<br><br>💬 Ask me about<br>RAG, FAISS, Deepfake Detection, Explainable AI, Django, and AI/ML.<br><br>⚡ Fun fact<br>I’m a fast learner and adaptable developer — I enjoy picking up new technologies<br>and applying them across different areas, from AI/ML and web development to<br>cloud and deployment.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,50:1d4ed8,100:22d3ee&height=200&section=header&text=Priyanka%20K&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=AI%20%7C%20ML%20%7C%20Generative%20AI%20Builder&descAlignY=55&descSize=18&descColor=e2e8f0" width="100%" alt="Header banner" />
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/priyanka._.kk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanka-k44) 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=900&lines=Building+with+AI;+Crafting+smart+solutions;+Turning+ideas+into+intelligent+products" alt="Typing SVG" />
 
-# 💻 Tech Stack:
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=priyanka-k04&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=priyanka-k04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=priyanka-k04&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=priyanka-k04&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanka-k44)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priyanka._.kk)
+[![GitHub](https://img.shields.io/badge/GitHub-priyanka-k04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanka-k04)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanka.k44@gmail.com)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=priyanka-k04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=priyanka-k04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table>
+<tr>
+<td width="58%">
+
+## 👩‍💻 About Me
+
+I’m a curious developer with a strong interest in AI, ML, and generative systems. My focus revolves around building practical solutions around RAG, LLM workflows, explainable AI, and intelligent applications that can solve real-world problems.
+
+- 🔭 Currently exploring: RAG, Generative AI, Explainable AI
+- 🤝 Open to collaborate on: AI/ML, GenAI, open-source, and product-focused projects
+- 🌱 Learning: Agentic AI, cloud-native deployment, scalable ML systems
+- 💬 Ask me about: Django, AI/ML, FAISS, deepfake detection, intelligent apps
+- ⚡ Fun fact: I enjoy learning fast and turning complex ideas into usable, impactful tools
+
+</td>
+<td width="42%" align="center">
+
+<img src="https://media.giphy.com/media/zhYSVCirREeOlBIzN5/giphy.gif" width="260" alt="AI coding animation" style="border-radius:16px;" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 What I Work With
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+---
+
+## 📌 Current Focus
+
+- Building AI-powered solutions around retrieval and reasoning
+- Exploring LLM workflows, embeddings, and knowledge-driven apps
+- Learning modern deployment patterns for real-world AI products
+- Experimenting with explainability and trustworthy model behavior
+
+---
+
+## 📊 GitHub Snapshot
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=priyanka-k04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
+
+<img src="https://streak-stats.demolab.com/?user=priyanka-k04&theme=tokyonight&hide_border=false" alt="GitHub streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-k04&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+
+</div>
+
+---
+
+## 🏆 Highlights
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=priyanka-k04&theme=algolia&no-frame=true&margin-w=6&margin-h=8" alt="GitHub trophies" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote" />
+
+</div>
+
+---
+
+<div align="center">
+
+[![Visitor Count](https://komarev.com/ghpvc/?username=priyanka-k04&label=Profile%20Views&color=7c3aed&style=flat-square)](https://github.com/priyanka-k04)
+
+</div>
+
+> “I believe the best way to grow in tech is to stay curious, build consistently, and turn ideas into useful experiences.”
+
+<!-- Created with a custom profile layout for a clean, modern AI/ML identity -->
