@@ -97,16 +97,28 @@
 
 ---
 
-## GitHub snapshot
+## GitHub overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanka-k04&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub stats" width="500" />
-  <br />
-  <img src="https://streak-stats.demolab.com/?user=priyanka-k04&theme=tokyonight&hide_border=true" alt="GitHub streak" width="500" />
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Followers&query=%24.followers&url=https://api.github.com/users/priyanka-k04&color=7B68EE&style=for-the-badge" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=Public%20Repos&query=%24.public_repos&url=https://api.github.com/users/priyanka-k04&color=0f172a&style=for-the-badge" alt="Public repositories" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/priyanka-k04?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanka-k04&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub trophies" />
+  <img src="https://img.shields.io/badge/Code%20Focus-AI%20%2F%20ML%20Builder-0ea5e9?style=for-the-badge&logo=githubactions&logoColor=white" alt="Code focus" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Dev%20Activity-Active%20Profile-7B68EE?style=for-the-badge&logo=github&logoColor=white" alt="Profile active" />
+</div>
+
+---
+
+## Contribution graph
+
+<div align="center">
+  [![Priyanka's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanka-k04&theme=tokyo-night&hide_border=true&area=true&area_color=7B68EE)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
 
 ---
