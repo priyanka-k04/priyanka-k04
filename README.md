@@ -1,17 +1,17 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:22d3ee&height=200&section=header&text=Priyanka%20K&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20ML%20%7C%20GenAI%20Builder&descAlignY=55&descSize=18&descColor=e2e8f0" width="100%" alt="Priyanka K banner" />
   <br />
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=1000&color=67E8F9&center=true&vCenter=true&width=820&lines=Retrieval+%C2%B7+Reasoning+%C2%B7+Real+products;Explainable+AI+for+high-stakes+decisions;From+prototype+to+deployed+intelligence" alt="Animated tagline" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2600&pause=1000&color=67E8F9&center=true&vCenter=true&width=820&lines=Retrieval+%C2%B7+Reasoning+%C2%B7+Real+products;Explainable+AI+for+high-stakes+decisions;From+prototype+to+deployed+intelligence" alt="Animated tagline" />
 </div>
 
-<div align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanka-k44)
-  [![GitHub](https://img.shields.io/badge/GitHub-priyanka--k04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/priyanka-k04)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/priyanka._.kk)
-  [![Email](https://img.shields.io/badge/Email-priyanka.k44@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanka.k44@gmail.com)
-  [![Profile views](https://komarev.com/ghpvc/?username=priyanka-k04&label=Profile%20views&color=0ea5e9&style=flat-square)](https://github.com/priyanka-k04)
-</div>
-
+<p align="center">
+  <a href="https://linkedin.com/in/priyanka-k44"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/priyanka-k04"><img src="https://img.shields.io/badge/GitHub-priyanka--k04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://instagram.com/priyanka._.kk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="mailto:priyanka.k44@gmail.com"><img src="https://img.shields.io/badge/Email-priyanka.k44%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <br />
+  <a href="https://github.com/priyanka-k04"><img src="https://komarev.com/ghpvc/?username=priyanka-k04&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" /></a>
+</p>
 ---
 
 <table>
