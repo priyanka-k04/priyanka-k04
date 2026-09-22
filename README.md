@@ -16,7 +16,7 @@
   <tr>
     <td valign="top" width="58%">
       <h2>About</h2>
-      I build <strong>practical AI systems</strong> — retrieval-augmented apps, explainable models, and Django-powered products that turn research into something real people can use.
+      I build <strong>practical AI systems</strong> - retrieval-augmented apps, explainable models, and Django-powered products that turn research into something real people can use.
       <br /><br />
       Right now, I am focused on <strong>RAG</strong>, <strong>LLM workflows</strong>, and <strong>trustworthy AI behavior</strong>, with a strong bias toward shipping useful products instead of just experimenting.
       <ul>
