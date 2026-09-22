@@ -7,7 +7,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/priyanka-k44"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/priyanka-k04"><img src="https://img.shields.io/badge/GitHub-priyanka--k04-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://instagram.com/priyanka._.kk"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
   <a href="mailto:priyanka.k44@gmail.com"><img src="https://img.shields.io/badge/Email-priyanka.k44%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <br />
   <a href="https://github.com/priyanka-k04"><img src="https://komarev.com/ghpvc/?username=priyanka-k04&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" /></a>
