@@ -12,7 +12,6 @@
   <br />
   <a href="https://github.com/priyanka-k04"><img src="https://komarev.com/ghpvc/?username=priyanka-k04&label=Profile%20views&color=0ea5e9&style=flat-square" alt="Profile views" /></a>
 </p>
----
 
 <table>
   <tr>
@@ -29,7 +28,9 @@
       </ul>
     </td>
     <td valign="top" width="42%" align="center">
-      <img src="https://media.giphy.com/media/zhYSVCirREeOlBIzN5/giphy.gif" width="250" alt="AI coding animation" />
+      <div align="center">
+        <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="AI coding animation" width="300" />
+      </div>
     </td>
   </tr>
 </table>
@@ -117,11 +118,11 @@
 
 ## Contribution graph
 
-<div align="center">
-  [![Priyanka's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=priyanka-k04&theme=tokyo-night&hide_border=true&area=true&area_color=7B68EE)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
-
----
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyanka-k04&theme=tokyo-night&hide_border=true&area=true&area_color=7B68EE" width="100%" alt="Priyanka's GitHub activity graph" />
+  </a>
+</p>
 
 <div align="center">
   <strong>Stay curious. Build consistently. Ship things people can use.</strong>
