@@ -38,13 +38,6 @@
 
 ## Featured work
 
-<div align="center">
-  [![DeepX](https://github-readme-stats.vercel.app/api/pin/?username=priyanka-k04&repo=DeepX&theme=tokyonight&hide_border=true)](https://github.com/priyanka-k04/DeepX)
-  [![Chatbot-Mindwell](https://github-readme-stats.vercel.app/api/pin/?username=priyanka-k04&repo=Chatbot-Mindwell&theme=tokyonight&hide_border=true)](https://github.com/priyanka-k04/Chatbot-Mindwell)
-  [![ImagoAI](https://github-readme-stats.vercel.app/api/pin/?username=priyanka-k04&repo=ImagoAI&theme=tokyonight&hide_border=true)](https://github.com/priyanka-k04/ImagoAI)
-  [![Hindi Stemmer](https://github-readme-stats.vercel.app/api/pin/?username=priyanka-k04&repo=Hindi_Stemmer&theme=tokyonight&hide_border=true)](https://github.com/priyanka-k04/Hindi_Stemmer)
-</div>
-
 | Project | What it is |
 | --- | --- |
 | [**DeepX**](https://github.com/priyanka-k04/DeepX) | Explainable multimodal deepfake detection covering image, video, and audio using Django and Grad-CAM. |
@@ -107,14 +100,13 @@
 ## GitHub snapshot
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=priyanka-k04&theme=tokyonight&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanka-k04&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=priyanka-k04&theme=tokyonight&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" alt="GitHub stats" width="500" />
   <br />
-  <img src="https://streak-stats.demolab.com/?user=priyanka-k04&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=priyanka-k04&theme=tokyonight&hide_border=true" alt="GitHub streak" width="500" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=priyanka-k04&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=priyanka-k04&theme=algolia&no-frame=true&no-bg=true&column=6&margin-w=8&margin-h=8" alt="GitHub trophies" />
 </div>
 
 ---
